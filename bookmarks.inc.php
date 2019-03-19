@@ -63,3 +63,7 @@ function find_all() : array {
         ],
     ];
 }
+
+function find_one_by_id(){
+
+}
